@@ -2,7 +2,7 @@ import "./style.css"
 import ClickCounter from "./ClickCounter"
 
 export default function App() {
-	const num = 0
+	const num =cascxx..
 
 	return (
 		<>
